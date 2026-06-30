@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "<h1>Flask App - Version 1.0 running on Port 6000</h1>"
+    return "<h1>Flask App - Version 2.0 UPDATED successfully!</h1>"
 
 
 if __name__ == "__main__":
